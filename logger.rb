@@ -4,6 +4,6 @@ class Logger
   end
 
   def error(msg)
-    puts "[ERR] #{msg}"
+    puts "[ERROR] #{msg}"
   end
 end
